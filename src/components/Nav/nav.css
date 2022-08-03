@@ -21,3 +21,14 @@
 .navbar > .active{
     color: rgba(80, 110, 204, 0.93);
 }
+
+#svg{
+    font-size: 30px;
+
+}
+
+@media all and (max-width: 625px) {
+   .d-flex {
+        display: none !important;
+    }
+}

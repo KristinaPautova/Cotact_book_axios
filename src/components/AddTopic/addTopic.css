@@ -43,3 +43,11 @@
     font-weight: 500;
     border: 2px #001731 solid;
 }
+
+@media all and (max-width: 625px) {
+    .containerAddTopic{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+}
