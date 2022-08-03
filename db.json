@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {
+      "title": "JS",
+      "description": "язык програмирования",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png",
+      "lib": "https://learn.javascript.ru/",
+      "id": 1
+    }
+  ]
+}

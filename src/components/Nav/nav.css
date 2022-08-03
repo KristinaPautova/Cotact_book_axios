@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    background-color: #f3f3f3;
+    font-size: 20px;
+    color: white;
+}
+
+.navbar > a{
+    color: rgba(107, 145, 201, 0.69);
+    text-decoration: none;
+}
+
+.navbar > a:hover{
+    color: rgba(107, 145, 201, 0.69);
+}
+
+.navbar > .active{
+    color: rgba(80, 110, 204, 0.93);
+}
