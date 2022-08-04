@@ -1,11 +1,53 @@
 {
   "contacts": [
     {
-      "title": "JS",
-      "description": "язык програмирования",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png",
-      "lib": "https://learn.javascript.ru/",
-      "id": 1
+      "title": "GitHub",
+      "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+      "lib": "https://github.com/",
+      "id": 4
+    },
+    {
+      "title": "Bootstrap",
+      "description": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+      "lib": "https://getbootstrap.com/",
+      "id": 5
+    },
+    {
+      "title": "JSON",
+      "description": "JSON (англ. JavaScript Object Notation, обычно произносится как /ˈdʒeɪsən/ JAY-sən) — текстовый формат обмена данными, основанный на JavaScript.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png",
+      "lib": "https://ru.wikipedia.org/wiki/JSON",
+      "id": 6
+    },
+    {
+      "title": "React",
+      "description": " React – это популярная библиотека языка программирования Javascript, которая применяется для создания пользовательских web-интерфейсов. Она имеет определенные шаблоны, благодаря чему существенно упрощает и ускоряет процесс frontend-разработки. Говоря простыми словами",
+      "image": "https://web-creator.ru/uploads/Page/33/react.svg",
+      "lib": "https://ru.reactjs.org/",
+      "id": 7
+    },
+    {
+      "title": "Sass",
+      "description": " SCSS определенно более близок к CSS, чем Sass. Разработчики Sass потрудились над тем, чтобы сделать оба синтаксиса ближе друг к другу, заменив ! (знак переменной) и = (знак присвоения) на $ и : из CSS. Поэтому при запуске нового проекта вы можете задуматься, какой синтаксис использовать. SCSS определенно более близок к CSS, чем Sass. Разработчики Sass потрудились над тем, чтобы сделать оба синтаксиса ближе друг к другу, заменив ! (знак переменной) и = (знак присвоения) на $ и : из CSS. Поэтому при запуске нового проекта вы можете задуматься, какой синтаксис использовать.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU",
+      "lib": "https://sass-lang.com/",
+      "id": 8
+    },
+    {
+      "title": "TypeScript",
+      "description": " TypeScript is a superset of typed JavaScript (optional) that can help build and manage large-scale JavaScript projects. It can be considered JavaScript with additional features like strong static typing, compilation, and object-oriented programming.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+      "lib": "https://www.typescriptlang.org/",
+      "id": 9
+    },
+    {
+      "title": "Node js",
+      "description": " Node. js (Node) — это платформа с открытым исходным кодом для работы с языком JavaScript, построенная на движке Chrome V8. Она позволяет писать серверный код для веб-приложений и динамических веб-страниц, а также программ командной строки",
+      "image": "https://miro.medium.com/1*bc9pmTiyKR0WNPka2w3e0Q.png",
+      "lib": "https://nodejs.org/",
+      "id": 10
     }
   ]
 }

@@ -19,7 +19,6 @@ const Layout = () => {
         <div>
             <Nav/>
             <Outlet/>
-            <footer style={styleObj}>@makers 2022</footer>
         </div>
     );
 };
