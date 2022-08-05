@@ -1,53 +1,18 @@
 {
   "contacts": [
     {
-      "title": "GitHub",
-      "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
-      "lib": "https://github.com/",
-      "id": 4
+      "title": "Kris",
+      "description": "0708180900",
+      "image": "data:image/jpeg;base64,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",
+      "lib": "hristina1991@gmail.com",
+      "id": 11
     },
     {
-      "title": "Bootstrap",
-      "description": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
-      "lib": "https://getbootstrap.com/",
-      "id": 5
-    },
-    {
-      "title": "JSON",
-      "description": "JSON (англ. JavaScript Object Notation, обычно произносится как /ˈdʒeɪsən/ JAY-sən) — текстовый формат обмена данными, основанный на JavaScript.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png",
-      "lib": "https://ru.wikipedia.org/wiki/JSON",
-      "id": 6
-    },
-    {
-      "title": "React",
-      "description": " React – это популярная библиотека языка программирования Javascript, которая применяется для создания пользовательских web-интерфейсов. Она имеет определенные шаблоны, благодаря чему существенно упрощает и ускоряет процесс frontend-разработки. Говоря простыми словами",
-      "image": "https://web-creator.ru/uploads/Page/33/react.svg",
-      "lib": "https://ru.reactjs.org/",
-      "id": 7
-    },
-    {
-      "title": "Sass",
-      "description": " SCSS определенно более близок к CSS, чем Sass. Разработчики Sass потрудились над тем, чтобы сделать оба синтаксиса ближе друг к другу, заменив ! (знак переменной) и = (знак присвоения) на $ и : из CSS. Поэтому при запуске нового проекта вы можете задуматься, какой синтаксис использовать. SCSS определенно более близок к CSS, чем Sass. Разработчики Sass потрудились над тем, чтобы сделать оба синтаксиса ближе друг к другу, заменив ! (знак переменной) и = (знак присвоения) на $ и : из CSS. Поэтому при запуске нового проекта вы можете задуматься, какой синтаксис использовать.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU",
-      "lib": "https://sass-lang.com/",
-      "id": 8
-    },
-    {
-      "title": "TypeScript",
-      "description": " TypeScript is a superset of typed JavaScript (optional) that can help build and manage large-scale JavaScript projects. It can be considered JavaScript with additional features like strong static typing, compilation, and object-oriented programming.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
-      "lib": "https://www.typescriptlang.org/",
-      "id": 9
-    },
-    {
-      "title": "Node js",
-      "description": " Node. js (Node) — это платформа с открытым исходным кодом для работы с языком JavaScript, построенная на движке Chrome V8. Она позволяет писать серверный код для веб-приложений и динамических веб-страниц, а также программ командной строки",
-      "image": "https://miro.medium.com/1*bc9pmTiyKR0WNPka2w3e0Q.png",
-      "lib": "https://nodejs.org/",
-      "id": 10
+      "title": "Johnny Depp",
+      "description": "+463 34 98 00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Johnny_Depp-2757_%28cropped%29.jpg/220px-Johnny_Depp-2757_%28cropped%29.jpg",
+      "lib": "johnny.depp@mail.com",
+      "id": 12
     }
   ]
 }

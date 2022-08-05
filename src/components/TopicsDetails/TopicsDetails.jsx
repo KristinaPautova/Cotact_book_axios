@@ -23,12 +23,7 @@ const TopicsDetails = () => {
                     <div className="contImg"></div>
                     <h3 className="topicDetailsH3">{topicDetailsObj.title}</h3>
                     <p className="topicDetailsPT1">{topicDetailsObj.description}</p>
-                    <p className="topicDetailsPT">
-                        Подробная информация по ссылке ниже ↓
-                    </p>
-                    <a id="topicBtn" target="_blank" href={topicDetailsObj.lib}>
-                        Ссылка
-                    </a>
+                    <p className="topicDetailsPT">Email: {topicDetailsObj.lib} </p>
                 </div>
             </div>
             <div className="topicDetailsButtons">

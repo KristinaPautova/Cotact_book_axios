@@ -18,8 +18,8 @@ const Nav = () => {
     return (
         <div className='navbar'>
             <NavLink id='svg' to='/'><AiOutlineHome/></NavLink>
-            <NavLink to='/list'>Topic list</NavLink>
-            <NavLink to='/add'>Add topic</NavLink>
+            <NavLink to='/list'>Contact list</NavLink>
+            <NavLink to='/add'>Add contact</NavLink>
             <Form className="d-flex">
                 <Form.Control
                     type="search"

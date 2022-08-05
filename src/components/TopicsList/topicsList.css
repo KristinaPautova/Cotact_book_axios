@@ -3,12 +3,13 @@
     justify-content: center;
     padding-top: 30px;
     padding-bottom: 30px;
-    background: linear-gradient(red, transparent),
-    linear-gradient(to top left, lime, transparent),
-    linear-gradient(to top right, blue, transparent);
+    background: url("https://cdn.wallpapersafari.com/55/73/ghY4rc.jpg");
     background-blend-mode: screen;
     padding-bottom: 30px;
+    height: 100%;
 }
+
+
 
 .card1 {
     margin-left: 20px;

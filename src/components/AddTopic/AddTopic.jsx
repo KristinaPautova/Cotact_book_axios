@@ -36,9 +36,9 @@ const AddTopic = () => {
         <>
             <div className="containerAddTopic">
                 <InputGroup className="addTopic-inputs mb-3">
-                    <InputGroup.Text id="basic-addon1">Название</InputGroup.Text>
+                    <InputGroup.Text id="basic-addon1">Name</InputGroup.Text>
                     <FormControl
-                        placeholder="Добавьте название"
+                        placeholder="Name"
                         aria-label="Username"
                         aria-describedby="basic-addon1"
                         onChange={(e)=> setTitle(e.target.value)}
@@ -46,9 +46,9 @@ const AddTopic = () => {
                     />
                 </InputGroup>
                 <InputGroup className="addTopic-inputs mb-3">
-                    <InputGroup.Text id="basic-addon1">Описание</InputGroup.Text>
+                    <InputGroup.Text id="basic-addon1">Number</InputGroup.Text>
                     <FormControl
-                        placeholder="Добавьте описание"
+                        placeholder="Number"
                         aria-label="Username"
                         aria-describedby="basic-addon1"
                         onChange={(e)=> setDescription(e.target.value)}
@@ -56,9 +56,9 @@ const AddTopic = () => {
                     />
                 </InputGroup>
                 <InputGroup className="addTopic-inputs mb-3">
-                    <InputGroup.Text id="basic-addon1">Картинка</InputGroup.Text>
+                    <InputGroup.Text id="basic-addon1">Photo</InputGroup.Text>
                     <FormControl
-                        placeholder="Вставьте ссылку на картинку"
+                        placeholder="Вставьте Photo"
                         aria-label="Username"
                         aria-describedby="basic-addon1"
                         onChange={(e)=> setImage(e.target.value)}
@@ -66,9 +66,9 @@ const AddTopic = () => {
                     />
                 </InputGroup>
                 <InputGroup className="addTopic-inputs mb-3">
-                    <InputGroup.Text id="basic-addon1">Ссылка</InputGroup.Text>
+                    <InputGroup.Text id="basic-addon1">Email</InputGroup.Text>
                     <FormControl
-                        placeholder="Вставьте ссылку на информацию"
+                        placeholder="Вставьте ссылку на Email"
                         aria-label="Username"
                         aria-describedby="basic-addon1"
                         onChange={(e)=> setLib(e.target.value)}

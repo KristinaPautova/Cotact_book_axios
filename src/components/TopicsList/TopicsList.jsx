@@ -22,6 +22,7 @@ const TopicsList = () => {
                         <img
                             src={item.image}
                             height="200"
+                            width='250'
                             className="card-img-top"
                             alt={item.title}
                         />
